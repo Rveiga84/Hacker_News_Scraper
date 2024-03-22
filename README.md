@@ -28,7 +28,9 @@ pip install -r requirements.txt
 
 ## Usage
 Execute the script from the command line to fetch and display the top stories from Hacker News that have more than 99 votes, sorted by the number of votes:
+
 python scraper.py
+
 This command runs your Python script, scraper.py, which contains the logic for scraping Hacker News stories, filtering, and displaying them based on your criteria.
 
 The script will output the top stories from Hacker News that have more than 99 votes, sorted by the number of votes.
